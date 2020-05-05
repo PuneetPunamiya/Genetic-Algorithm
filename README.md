@@ -1,6 +1,6 @@
 # Genetic-Algorithm
 
-A Simple demonstration of Genetic Algorithm using Flask framework
+A Simple demonstration of Genetic Algorithm
 
 ## Requirements:
 (Python Modules)
